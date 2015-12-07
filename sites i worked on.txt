@@ -3,3 +3,9 @@ WEB DESIGN
 weryon.ro
 weryon.com
 seomaxim.co.uk
+
+WordPress
+---------
+mysticdent.ro - everything
+thejazzvnu.com - ~50% of the work
+yplan.ro - some mods(plugins, edits, css, html, etc)
